@@ -1,0 +1,18 @@
+{
+  "id": "1",
+  "pricingDate": "20150331",
+  "pricingLocation": {
+    "locType": "national",
+    "locRef": "UK"
+  },
+  "variants": [{
+    "sub-id": "11",
+    "currency": "GBP",
+    "sellingUOM": "EA",
+    "regPrice": "1.50",
+    "promoPrice": null,
+    "clrPrice": null,
+    "authPrice": "1.50"
+  }],
+  "promotions": []
+}

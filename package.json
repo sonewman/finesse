@@ -1,0 +1,27 @@
+{
+  "name": "finesse",
+  "version": "0.0.0",
+  "description": "Placeholder for project, coming soon...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sonewman/finesse.git"
+  },
+  "author": "Sam Newman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonewman/finesse/issues"
+  },
+  "homepage": "https://github.com/sonewman/finesse#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "fastpath": "^1.0.7",
+    "node-cache": "^2.1.1"
+  },
+  "devDependencies": {
+    "koa": "^0.20.0"
+  }
+}
